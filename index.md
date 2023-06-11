@@ -1,14 +1,28 @@
-+++
-title = "About"
-+++
-
-## About Me
-
-{{< figure class="avatar" src="/avatar.jpg" alt="photographie de Marine Verwaerde">}}
-
 Passionnée par la géologie et le climat, je suis diplômée d’un Master 2 en géologie et paléoclimatologie. Après ma participation au projet de recherche AFROCLIM, sur l'évolution des périodes humides Africaine au niveau du Sahara et du Sahel, je me reconverti dans le développement informatique et plus particulièrement en Java. 
 Avide de bonnes pratiques et de clean code, je les met en pratique et les partage dans les équipes dans les quelles j'interviens. Forte de mon expérience de développeuse, je tiens des rôles de leader technique depuis 2 ans pour des grands acteurs du retail en les accompagnant pour développer le bon produit du cadrage à la production tout en les initiant à leur impact écologique (finops, eco-conception)​.
 
+## Compétences
+### Langages : 
+- Java 
+- Python
+
+### Frameworks :
+- Spring
+- Hugo
+- Django
+
+### Ma boîte à outils : 
+- Git (et pas juste des pulls et des pushs) j'adore [ce talk](https://mghignet.github.io/git-dammit-talk/) 
+- team zsh
+- fzf, autojump
+- Intellij / Vscode / Pycharm
+
+### Méthodo : 
+Celle qu'ils vous faut et jamais by-the-book !
+BDD (Behaviour Driven Development) et DDD (Domain Driven Design)
+
+### Mes convictions : 
+Pour la tech mais aussi pour les humains: Le pragmatisme, les pratiques Software Craft, l'écoute active, la candeur radicale et la communication non violente.
 
 ## Expériences
 
@@ -58,28 +72,4 @@ Année | Diplôme | Lieu
 -----|-------|--------
 2011 | Technicienne en géologie  | Institut Lasalle Beauvais
 2015 | Master en paléoclimatologie  | Université Lille 1
-
-## Compétences
-Langages : 
-Java 
-Python
-Go
-
-Frameworks :
-Spring
-Hugo
-Django
-
-Ma boîte à outils : 
-Git (et pas juste des pulls et des push -> j'adore ce talk -> https://mghignet.github.io/git-dammit-talk/)
-team zsh
-fzf, autojump
-Intellij / Vscode / Pycharm
-
-Méthodo : 
-Celle qu'ils vous faut et jamais by-the-book !
-BDD (Behaviour Driven Development) et DDD (Domain Driven Design)
-
-Mes convictions : 
-Pour la tech mais aussi pour les humains: Le pragmatisme, les pratiques Software Craft, l'écoute active, la candeur radicale et la communication non violente.
 
