@@ -1,2 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Marine Verwaerde
+description: About me
+show_downloads: true
+plugins:
+- jekyll-sass-converter

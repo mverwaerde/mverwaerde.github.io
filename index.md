@@ -1,16 +1,20 @@
-  Passionnée par la géologie et le climat, je suis diplômée d’un Master 2 en géologie et paléoclimatologie. Après ma participation au projet de recherche AFROCLIM, sur l'évolution des périodes humides africaines au niveau du Sahara et du Sahel, je me reconvertis en 2016 dans le développement informatique et plus particulièrement en Java.
+Avide de bonnes pratiques et de clean code, je les mets en pratique et les partage dans les équipes auprès desquelles j’interviens. Forte de mon expérience de développeuse depuis 2016, je tiens des rôles de leader technique depuis 2021 pour des acteurs de la grande distribution en les accompagnant pour développer le bon produit, du cadrage à la production tout en les initiant à leur impact écologique (finops, éco-conception).
 
-  Avide de bonnes pratiques et de _clean code_, je les mets en pratique et les partage dans les équipes auprès desquelles j'interviens. Forte de mon expérience de développeuse, je tiens des rôles de leader technique depuis 2021 pour des grands acteurs du retail en les accompagnant pour développer le bon produit, du cadrage à la production tout en les initiant à leur impact écologique (finops, éco-conception)​.
+Je suis à la recherche d’une nouvelle aventure dans une entreprise développant son ou ses propres produits. Dans une petite équipe, je veux continuer à partager mes connaissances et bonnes pratiques de développement.
 
 ## Compétences
 ### Langages : 
-- Java 
+- Java 11-20
 - Python
 
 ### Frameworks :
 - Spring
-- Hugo
+- Junit, Cucumber, Mockito
 - Django
+- Unitest
+- React
+- Mocha, Jest
+- Hugo
 
 ### Ma boîte à outils : 
 - Intellij / Vscode / Pycharm
@@ -18,9 +22,19 @@
 - team zsh
 - fzf, autojump
 
+### CI/CD : 
+- Github Actions
+- Gitlab CI 
+- Jenkins
+- Kubernetes (dev)
+
 ### Méthodo : 
 - Celle qu'ils vous faut et jamais by-the-book !
-- BDD (Behaviour Driven Development) et DDD (Domain Driven Design).
+- Clean architecture
+- [BDD](https://fr.wikipedia.org/wiki/Programmation_pilot%C3%A9e_par_le_comportement)
+- [DDD](https://fr.wikipedia.org/wiki/Conception_pilot%C3%A9e_par_le_domaine)
+- [ADR](https://cloud.google.com/architecture/architecture-decision-records?hl=fr)
+- [Tech writing DIVIO](https://documentation.divio.com/)
 
 ### Mes convictions : 
 Pour la tech mais aussi pour les humains :  
@@ -89,4 +103,6 @@ Pour la tech mais aussi pour les humains :
 | 2016  | Formation Java (POE)                             | Actif Solution            |
 | 2015  | Master en paléoclimatologie                      | Université Lille 1        |
 | 2011  | Technicienne en géologie                         | Institut Lasalle Beauvais |
+
+## Contact
 
