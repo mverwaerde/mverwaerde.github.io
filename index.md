@@ -103,6 +103,3 @@ Pour la tech mais aussi pour les humains :
 | 2016  | Formation Java (POE)                             | Actif Solution            |
 | 2015  | Master en paléoclimatologie                      | Université Lille 1        |
 | 2011  | Technicienne en géologie                         | Institut Lasalle Beauvais |
-
-## Contact
-
