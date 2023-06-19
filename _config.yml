@@ -1,6 +1,7 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Marine Verwaerde
-description: About me
 show_downloads: true
+github:
+  pdf_url: https://raw.githubusercontent.com/mverwaerde/mverwaerde.github.io/main/assets/files/CV%20Marine%20Verwaerde%202023-V1.pdf
 plugins:
 - jekyll-sass-converter
